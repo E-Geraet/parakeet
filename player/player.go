@@ -10,7 +10,7 @@ import (
 	"github.com/faiface/beep/mp3"
 	"github.com/faiface/beep/speaker"
 
-	"github.com/E-Geraet/parakeet/soundcloud"
+	"github.com/Depado/parakeet/soundcloud"
 )
 
 // Player holds the necessary data and structs to control the player

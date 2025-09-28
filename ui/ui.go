@@ -7,8 +7,8 @@ import (
 	ui "github.com/gizak/termui/v3"
 	"github.com/gizak/termui/v3/widgets"
 
-	"github.com/E-Geraet/parakeet/soundcloud"
-	"github.com/E-Geraet/parakeet/utils"
+	"github.com/Depado/parakeet/soundcloud"
+	"github.com/Depado/parakeet/utils"
 )
 
 // NewTracklistWidget will return a new tracklist widget with the appropriate

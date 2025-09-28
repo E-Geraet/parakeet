@@ -22,7 +22,7 @@ type LogConf struct {
 type Conf struct {
 	Log       LogConf `mapstructure:"log"`
 	UserID    string  `mapstructure:"user_id"`
-	AuthToken string  `mapstructure:"auth_token"` // Authentication Tooken
+	AuthToken string  `mapstructure:"auth_token"` // Authentication Token
 	URL       string
     Shuffle   bool    `mapstructure:"shuffle"`
 }

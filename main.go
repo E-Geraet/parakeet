@@ -12,10 +12,10 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/sirupsen/logrus"
 
-	"github.com/E-Geraet/parakeet/cmd"
-	"github.com/E-Geraet/parakeet/player"
-	"github.com/E-Geraet/parakeet/soundcloud"
-	"github.com/E-Geraet/parakeet/ui"
+	"github.com/Depado/parakeet/cmd"
+	"github.com/Depado/parakeet/player"
+	"github.com/Depado/parakeet/soundcloud"
+	"github.com/Depado/parakeet/ui"
 )
 
 func init() {
